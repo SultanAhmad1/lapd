@@ -1,0 +1,920 @@
+.akald0amreview{
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    /* flex-direction: column; */
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    position: relative;
+}
+
+.e5ald0mnmoamc5review{
+    padding-bottom: 40px;
+    flex-basis: 1920px;
+    background: #F6F6F6;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+
+.icmpmqgmmrgdmsmtmumvmwreview{
+    /* grid-template-columns: 1200px; */
+    /* grid-template-columns: 670px 440px; */
+    /* grid-template-columns: 630px 415px; */
+    /* grid-template-columns: 590px 380px; */
+    /* row-gap: 32px; */
+    /* grid-template-columns: 400px 360px; */
+    margin-top: 40px;
+    max-width: 1200px;
+    width: 80%;
+    /* display: grid; */
+    /* display: -ms-grid; */
+    /* -webkit-column-gap: 24px; */
+    /* column-gap: 24px; */
+}
+
+.hpg5review{
+    flex: 2;
+    min-width: 0;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.n2b0review{
+    border-radius: 16px;
+    background-color: #FFFFFF;
+}
+
+.n3n4epn5n6n7review{
+    border-bottom: 2px solid rgb(238, 238, 238);
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 24px;
+    padding-bottom: 8px;
+}
+
+.eikuekkvhualamenn8n9nanbncndreview{
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    line-height: 32px;
+    font-weight: 700;
+    font-size: 24px;
+    font-family: UberMove, sans-serif;
+    line-height: 40px;
+    font-size: 32px;
+
+    /* margin-bottom: 0;
+    -webkit-box-align: start;
+    align-items: flex-start;
+    font-weight: 700;
+    font-family: UberMove, sans-serif;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column; */
+
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+
+h1, h2, h3, h4, p {
+    margin: 0;
+    font-weight: normal;
+}
+
+.d1{
+    flex: 1;
+}
+
+.d1g5review{
+    flex: 1;
+    min-width: 0;
+}
+
+.almlc5review{
+    padding: 16px 0px;
+    -webkit-box-align: center;
+    align-items: center;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+
+.ihreview{
+    width: 40px;
+}
+
+.c8c7cccdreview{
+    fill: rgb(0, 0, 0);
+    flex: none;
+    width: 24px;
+    height: 24px;
+}
+
+.alamd1g5review{
+    min-width: 0;
+    flex: 1;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+
+.chd2cjd3b1review{
+    line-height: 20px;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #000000;
+}
+
+.catereview{
+    color: #979797;
+    font-size: 15px;
+}
+
+.chcicjckhehfhgc5cob1alc9cpcqcrcsclreview{
+    padding: 0 12px;
+    height: 36px;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+    background: #EEEEEE;
+    border-radius: 500px;
+    line-height: 30px;
+    font-weight: 500;
+    font-size: 14px;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+    -webkit-box-align: center;
+    align-items: center;
+    color: #000000;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+
+.chcicjckhehfhgc5cob1alc9cpcqcrcsclreview-like{
+    padding: 0 18px;
+    height: 36px;
+    width: 15%;
+    width: -moz-fit-content;
+    /* width: auto; */
+    background: #EEEEEE;
+    border-radius: 500px;
+    line-height: 30px;
+    font-weight: 500;
+    font-size: 42px;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+    align-items: center;
+    color: #000000;
+    display: flex;
+    justify-content: space-around;
+}
+
+.alreview{
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+}
+
+.spacer {
+    height: 1px;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.spacer ._40{
+    width: 40px;
+}
+
+.edhwb9d1review{
+    background-color: #E2E2E2;
+    border: none;
+    flex: 1;
+    height: 1px;
+}
+
+/* Food Quality Rate Stars */
+.foodqualityrate {
+    float: left;
+    height: 32px;
+    padding: 0 10px;
+}
+
+.foodqualityrate:not(:checked) > input {
+    position:absolute;
+    top:-9999px;
+}
+
+.foodqualityrate:not(:checked) > label {
+    float:right;
+    width:1em;
+    overflow:hidden;
+    white-space:nowrap;
+    cursor:pointer;
+    font-size:30px;
+    /* color:#ccc; */
+    color:#b3b3b3;
+}
+
+.foodqualityrate:not(:checked) > label:before {
+    content: '★ ';
+}
+
+.foodqualityrate > input:checked ~ label {
+    color: #000000;    
+}
+
+.foodqualityrate:not(:checked) > label:hover,
+
+.foodqualityrate:not(:checked) > label:hover ~ label {
+    color: #000000;  
+}
+
+.foodqualityrate > input:checked + label:hover,
+.foodqualityrate > input:checked + label:hover ~ label,
+.foodqualityrate > input:checked ~ label:hover,
+.foodqualityrate > input:checked ~ label:hover ~ label,
+
+.foodqualityrate > label:hover ~ input:checked ~ label {
+    color: #141411;
+}
+
+
+/* Packaging Rate Stars */
+.packagingrate {
+    float: left;
+    height: 32px;
+    padding: 0 10px;
+}
+
+.packagingrate:not(:checked) > input {
+    position:absolute;
+    top:-9999px;
+}
+
+.packagingrate:not(:checked) > label {
+    float:right;
+    width:1em;
+    overflow:hidden;
+    white-space:nowrap;
+    cursor:pointer;
+    font-size:30px;
+    /* color:#ccc; */
+    color:#b3b3b3;
+}
+
+.packagingrate:not(:checked) > label:before {
+    content: '★ ';
+}
+
+.packagingrate > input:checked ~ label {
+    color: #000000;  
+}
+
+.packagingrate:not(:checked) > label:hover,
+
+.packagingrate:not(:checked) > label:hover ~ label {
+    color: #000000;  
+}
+
+.packagingrate > input:checked + label:hover,
+.packagingrate > input:checked + label:hover ~ label,
+.packagingrate > input:checked ~ label:hover,
+.packagingrate > input:checked ~ label:hover ~ label,
+
+.packagingrate > label:hover ~ input:checked ~ label {
+    color: #141411;
+}
+
+/* Delivery Time Rate Stars */
+.deliverytimerate {
+    float: left;
+    height: 32px;
+    padding: 0 10px;
+}
+
+.deliverytimerate:not(:checked) > input {
+    position:absolute;
+    top:-9999px;
+}
+
+.deliverytimerate:not(:checked) > label {
+    float:right;
+    width:1em;
+    overflow:hidden;
+    white-space:nowrap;
+    cursor:pointer;
+    font-size:30px;
+    /* color:#ccc; */
+    color:#b3b3b3;
+}
+
+.deliverytimerate:not(:checked) > label:before {
+    content: '★ ';
+}
+
+.deliverytimerate > input:checked ~ label {
+    color: #000000;  
+}
+
+.deliverytimerate:not(:checked) > label:hover,
+
+.deliverytimerate:not(:checked) > label:hover ~ label {
+    color: #000000;  
+}
+
+.deliverytimerate > input:checked + label:hover,
+.deliverytimerate > input:checked + label:hover ~ label,
+.deliverytimerate > input:checked ~ label:hover,
+.deliverytimerate > input:checked ~ label:hover ~ label,
+
+.deliverytimerate > label:hover ~ input:checked ~ label {
+    color: #141411;
+}
+
+/* Website Experience Rate Stars */
+.websiteexperiencerate {
+    float: left;
+    height: 32px;
+    padding: 0 10px;
+}
+
+.websiteexperiencerate:not(:checked) > input {
+    position:absolute;
+    top:-9999px;
+}
+
+.websiteexperiencerate:not(:checked) > label {
+    float:right;
+    width:1em;
+    overflow:hidden;
+    white-space:nowrap;
+    cursor:pointer;
+    font-size:30px;
+    /* color:#ccc; */
+    color:#b3b3b3;
+}
+
+.websiteexperiencerate:not(:checked) > label:before {
+    content: '★ ';
+}
+
+.websiteexperiencerate > input:checked ~ label {
+    color: #000000;  
+}
+
+.websiteexperiencerate:not(:checked) > label:hover,
+
+.websiteexperiencerate:not(:checked) > label:hover ~ label {
+    color: #000000;  
+}
+
+.websiteexperiencerate > input:checked + label:hover,
+.websiteexperiencerate > input:checked + label:hover ~ label,
+.websiteexperiencerate > input:checked ~ label:hover,
+.websiteexperiencerate > input:checked ~ label:hover ~ label,
+
+.websiteexperiencerate > label:hover ~ input:checked ~ label {
+    color: #141411;
+}
+
+.mpreview{
+    min-height: 56px;
+    margin-top: 20px;
+}
+
+.chhhcwpareview{
+    line-height: 28px;
+    font-size: 18px;
+    font-weight: normal;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.hhcxchcjc9mpbzalc5egafpomrg7sasbsccrcsrhdtsdreview{
+    /* animation-name: ag; */
+    background: rgb(4, 136, 72);
+    animation-duration: 2500ms;
+    padding: 16px 0px;
+    border-radius: 8px;
+    /* min-height: 56px; */
+    font-size: 18px;
+    color: #FFFFFF;
+    justify-content: center;
+    animation-iteration-count: infinite;
+    line-height: 24px;
+    font-weight: 500;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+    align-items: center;
+    width: 20%;
+    /* display: flex; */
+    /* box-sizing: border-box;*/
+}
+
+.hhcxchcjc9mpbzalc5egafpomrg7sasbsccrcsrhdtsdreview-submit{
+    /* animation-name: ag; */
+    background: rgb(12, 12, 12);
+    animation-duration: 2500ms;
+    padding: 16px 0px;
+    border-radius: 8px;
+    /* min-height: 56px; */
+    font-size: 18px;
+    color: #FFFFFF;
+    justify-content: center;
+    animation-iteration-count: infinite;
+    line-height: 24px;
+    font-weight: 500;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    cursor: pointer;
+    align-items: center;
+    width: 20%;
+    /* display: flex; */
+    /* box-sizing: border-box;*/
+}
+
+button {
+    border-width: 0;
+    cursor: pointer;
+    padding: 0;
+    margin: 0;
+    background: transparent;
+    font: inherit;
+    color: inherit;
+    letter-spacing: inherit;
+}
+
+.afreview{
+    display: none;
+}
+
+@media screen and (max-width: 900px){ 
+
+   .akald0amreview{
+        display: none;
+   }
+
+    .afreview{
+        display: unset;
+    }
+
+    .cwcxcyczd0d1review{
+        border-bottom: 8px solid rgb(238, 238, 238);
+        padding-bottom: 8px;
+        padding-right: 16px;
+        padding-left: 16px;
+        padding-top: 0px;
+    }
+
+    .bkd2bmd3d4alamd5d6d7d8d9dadbreview{
+        -webkit-box-align: start;
+        align-items: flex-start;
+        margin-bottom: 0px;
+        line-height: 40px;
+        font-size: 32px;
+        font-weight: 700;
+        font-family: UberMove, sans-serif;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        flex-direction: column;
+        display: -webkit-box;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+    }
+
+    .cjreview{
+        flex: 1;
+    }
+
+    .cjdcreview{
+        min-width: 0px;
+        flex: 1;
+    }
+
+    .alddbcreview{
+        padding: 16px 0px;
+        -webkit-box-align: center;
+        align-items: center;
+        display: -webkit-box;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+    }
+
+    .dereview{
+        width: 40px;
+    }
+
+    .alamcjdcreview{
+        min-width: 0px;
+        flex: 1;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        flex-direction: column;
+        display: -webkit-box;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+    }
+
+    .catereview{
+        color: #979797;
+        font-size: 15px;
+    }
+
+    .productReview{
+        font-size: 16px;
+        font-weight: 700;
+    }
+
+    .bobpdfcvb1review{
+        font-weight: 500;
+        line-height: 20px;
+        font-size: 16px;
+        font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+        color: #000000;
+    }
+
+    .bodgbqcvb1review{
+        font-size: 14px;
+        line-height: 20px;
+        font-weight: normal;
+        font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+        color: #000000;
+    }
+
+    .ebreview{
+        color: rgb(84, 84, 84);
+    }
+
+
+    .bodgdfhdidjdkbcdlb1albydmdndodpdqreview{
+        border-radius: 500px;
+        background: rgb(238, 238, 238);
+        padding: 0px 12px;
+        height: 36px;
+        width: fit-content;
+        line-height: 29px;
+        font-size: 14px;
+        font-weight: 500;
+        cursor: pointer;
+        font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+        -webkit-box-align: center;
+        align-items: center;
+        color: #000000;
+        display: -webkit-box;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+    }
+
+    .bodgdfhdidjdkbcdlb1albydmdndodpdqreview-like{
+        border-radius: 500px;
+        background: rgb(238, 238, 238);
+        padding: 0px 12px;
+        height: 36px;
+        width: -moz-fit-content;
+        width: fit-content;
+        line-height: 29px;
+        font-size: 24px;
+        font-weight: 500;
+        cursor: pointer;
+        font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+        align-items: center;
+        color: #000000;
+        display: flex;
+        justify-content: space-evenly;
+        width: 31%;
+    }
+
+    .alreview{
+        display: -webkit-box;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+    }
+
+    .drdsbscjreview{
+        background-color: rgb(226, 226, 226);
+        border: none;
+        flex: 1;
+        height: 1px;
+    }
+
+    .dzc9review{
+        flex-shrink: 0;
+        height: 20px;
+    }
+
+    .dtcxcybgd0d1review{
+        padding-top: 24px;
+        border-bottom: 8px solid rgb(238, 238, 238);
+        padding-right: 16px;
+        padding-left: 16px;
+        padding-bottom: 24px;
+    }
+
+    .akfereview{
+        height: 80px;
+        position: relative;
+    }
+
+    .atbahjb9arhkreview{
+        background: linear-gradient(rgba(255, 255, 255, 0) 2.5%, rgba(255, 255, 255, 0.92) 55.35%);
+        padding: 16px 16px 24px;
+        right: 0;
+        left: 0;
+        bottom: 0;
+        position: fixed;
+    }
+
+    .hlreview{
+        box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px, rgba(0, 0, 0, 0.04) 0px 4px 4px
+    }
+
+    .ffbrbodfbyfgbhalbcccafhmfhc0hnhohpdodpreview{
+        background: rgb(6, 107, 2);
+        padding: 12px 16px;
+        border-radius: 8px;
+        min-height: 56px;
+        font-size: 18px;
+        font-weight: 500;
+        -webkit-box-pack: center;
+        justify-content: center;
+        color: #FFFFFF;
+        cursor: pointer;
+        line-height: 24px;
+        font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+        width: 100%;
+        -webkit-box-align: center;
+        align-items: center;
+        display: -webkit-box;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        box-sizing: border-box;
+    }
+
+    .ffbrbodfbyfgbhalbcccafhmfhc0hnhohpdodpreview-submit{
+        background: rgb(0, 0, 0);
+        padding: 12px 16px;
+        border-radius: 8px;
+        min-height: 56px;
+        font-size: 18px;
+        font-weight: 500;
+        -webkit-box-pack: center;
+        justify-content: center;
+        color: #FFFFFF;
+        cursor: pointer;
+        line-height: 24px;
+        font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+        width: 100%;
+        -webkit-box-align: center;
+        align-items: center;
+        display: -webkit-box;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        box-sizing: border-box;
+    }
+
+    .bhaereview{
+        width: 100%;
+        height: 100%;
+    }
+
+    .c7c6cacbreview{
+        fill: rgb(0, 0, 0);
+        flex: none;
+        width: 24px;
+        height: 24px;
+    }
+    
+    /* Food Quality Rate Stars */
+    .foodqualityratereview {
+        float: left;
+        height: 32px;
+        padding: 0 10px;
+    }
+
+    .foodqualityratereview:not(:checked) > input {
+        position:absolute;
+        top:-9999px;
+    }
+
+    .foodqualityratereview:not(:checked) > label {
+        float:right;
+        width:1em;
+        overflow:hidden;
+        white-space:nowrap;
+        cursor:pointer;
+        font-size:30px;
+        /* color:#ccc; */
+        color:#b3b3b3;
+    }
+
+    .foodqualityratereview:not(:checked) > label:before {
+        content: '★ ';
+    }
+
+    .foodqualityratereview > input:checked ~ label {
+        color: #000000;    
+    }
+
+    .foodqualityratereview:not(:checked) > label:hover,
+
+    .foodqualityratereview:not(:checked) > label:hover ~ label {
+        color: #000000;  
+    }
+
+    .foodqualityratereview > input:checked + label:hover,
+    .foodqualityratereview > input:checked + label:hover ~ label,
+    .foodqualityratereview > input:checked ~ label:hover,
+    .foodqualityratereview > input:checked ~ label:hover ~ label,
+
+    .foodqualityratereview > label:hover ~ input:checked ~ label {
+        color: #141411;
+    }
+
+
+    /* Packaging Rate Stars */
+    .packagingratereview {
+        float: left;
+        height: 32px;
+        padding: 0 10px;
+    }
+
+    .packagingratereview:not(:checked) > input {
+        position:absolute;
+        top:-9999px;
+    }
+
+    .packagingratereview:not(:checked) > label {
+        float:right;
+        width:1em;
+        overflow:hidden;
+        white-space:nowrap;
+        cursor:pointer;
+        font-size:30px;
+        /* color:#ccc; */
+        color:#b3b3b3;
+    }
+
+    .packagingratereview:not(:checked) > label:before {
+        content: '★ ';
+    }
+
+    .packagingratereview > input:checked ~ label {
+        color: #000000;  
+    }
+
+    .packagingratereview:not(:checked) > label:hover,
+
+    .packagingratereview:not(:checked) > label:hover ~ label {
+        color: #000000;  
+    }
+
+    .packagingratereview > input:checked + label:hover,
+    .packagingratereview > input:checked + label:hover ~ label,
+    .packagingratereview > input:checked ~ label:hover,
+    .packagingratereview > input:checked ~ label:hover ~ label,
+
+    .packagingratereview > label:hover ~ input:checked ~ label {
+        color: #141411;
+    }
+
+    /* Delivery Time Rate Stars */
+    .deliverytimeratereview {
+        float: left;
+        height: 32px;
+        padding: 0 10px;
+    }
+
+    .deliverytimeratereview:not(:checked) > input {
+        position:absolute;
+        top:-9999px;
+    }
+
+    .deliverytimeratereview:not(:checked) > label {
+        float:right;
+        width:1em;
+        overflow:hidden;
+        white-space:nowrap;
+        cursor:pointer;
+        font-size:30px;
+        /* color:#ccc; */
+        color:#b3b3b3;
+    }
+
+    .deliverytimeratereview:not(:checked) > label:before {
+        content: '★ ';
+    }
+
+    .deliverytimeratereview > input:checked ~ label {
+        color: #000000;  
+    }
+
+    .deliverytimeratereview:not(:checked) > label:hover,
+
+    .deliverytimeratereview:not(:checked) > label:hover ~ label {
+        color: #000000;  
+    }
+
+    .deliverytimeratereview > input:checked + label:hover,
+    .deliverytimeratereview > input:checked + label:hover ~ label,
+    .deliverytimeratereview > input:checked ~ label:hover,
+    .deliverytimeratereview > input:checked ~ label:hover ~ label,
+
+    .deliverytimeratereview > label:hover ~ input:checked ~ label {
+        color: #141411;
+    }
+
+    /* Website Experience Rate Stars */
+    .websiteexperienceratereview {
+        float: left;
+        height: 32px;
+        padding: 0 10px;
+    }
+
+    .websiteexperienceratereview:not(:checked) > input {
+        position:absolute;
+        top:-9999px;
+    }
+
+    .websiteexperienceratereview:not(:checked) > label {
+        float:right;
+        width:1em;
+        overflow:hidden;
+        white-space:nowrap;
+        cursor:pointer;
+        font-size:30px;
+        /* color:#ccc; */
+        color:#b3b3b3;
+    }
+
+    .websiteexperienceratereview:not(:checked) > label:before {
+        content: '★ ';
+    }
+
+    .websiteexperienceratereview > input:checked ~ label {
+        color: #000000;  
+    }
+
+    .websiteexperienceratereview:not(:checked) > label:hover,
+
+    .websiteexperienceratereview:not(:checked) > label:hover ~ label {
+        color: #000000;  
+    }
+
+    .websiteexperienceratereview > input:checked + label:hover,
+    .websiteexperienceratereview > input:checked + label:hover ~ label,
+    .websiteexperienceratereview > input:checked ~ label:hover,
+    .websiteexperienceratereview > input:checked ~ label:hover ~ label,
+
+    .websiteexperienceratereview > label:hover ~ input:checked ~ label {
+        color: #141411;
+    }
+}
